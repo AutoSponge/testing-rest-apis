@@ -1,1 +1,21 @@
 # testing-rest-apis
+
+## Getting Started
+
+- `npm install -g node-red`
+- `node-red`
+
+## Exercises
+
+### Simple API
+
+1. Add the `input > http` node
+1. Add the `function` node
+1. Add the `json` node
+1. Add the `output > http` node
+
+## References
+
+- [node-red](https://www.npmjs.com/package/node-red)
+- [hippie-swagger](https://www.npmjs.com/package/hippie-swagger)
+- [json-schema-faker](https://www.npmjs.com/package/json-schema-faker)
