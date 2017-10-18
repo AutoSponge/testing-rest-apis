@@ -21,3 +21,4 @@
 - [json-schema-faker](https://www.npmjs.com/package/json-schema-faker)
 - [list of swagger projects](https://swagger.io/open-source-integrations/)
 - [best-practices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [httpdd](https://github.com/for-GET/http-decision-diagram/blob/master/doc/README.md)
