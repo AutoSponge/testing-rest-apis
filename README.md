@@ -13,6 +13,7 @@
 1. Add the `function` node
 1. Add the `json` node
 1. Add the `output > http` node
+1. Manage Pallette > Install > `npm` > install
 
 ## References
 
