@@ -19,3 +19,4 @@
 - [node-red](https://www.npmjs.com/package/node-red)
 - [hippie-swagger](https://www.npmjs.com/package/hippie-swagger)
 - [json-schema-faker](https://www.npmjs.com/package/json-schema-faker)
+- [list of swagger projects](https://swagger.io/open-source-integrations/)
