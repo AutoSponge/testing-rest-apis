@@ -23,3 +23,4 @@
 - [best-practices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [httpdd](https://github.com/for-GET/http-decision-diagram/blob/master/doc/README.md)
 - [todobackend](https://www.todobackend.com/)
+  - [spec](https://github.com/TodoBackend/todo-backend-js-spec)
