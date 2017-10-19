@@ -26,3 +26,4 @@
 - [todobackend](https://www.todobackend.com/)
   - [spec](https://github.com/TodoBackend/todo-backend-js-spec)
 - [npm modules in node-red](http://jamesthom.as/blog/2016/01/04/npm-modules-in-node-red/)
+- [json-server](https://github.com/typicode/json-server)
